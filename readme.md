@@ -4,6 +4,8 @@ PowerPoint Generator Using Gemini AI
 
 This is a Python-based PowerPoint presentation generator that leverages AI (via Gemini AI- gemma-3-27b-it) to create dynamic, data-driven presentations. The tool allows users to input a topic, specify the number of slides, and receive a fully automated PowerPoint presentation. The generated slides include a mix of text-based content and relevant images. It’s designed to assist with content generation and save time for anyone who regularly creates presentations.
 
+you can find a sample generated ppt here: /health_presentation.pptx
+
 # Features
 
 1. Automated Slide Generation: Generate presentations based on any topic with just a few inputs.
@@ -69,3 +71,4 @@ Creating slide 1: Sunlight & Health: Beyond Vitamin D - Recent Discoveries
 Creating slide 2: Nitric Oxide & Cardiovascular Health
 ...
 Presentation saved as: health_presentation.pptx
+
